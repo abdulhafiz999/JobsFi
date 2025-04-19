@@ -21,7 +21,7 @@ Our current MVP (Minimum Viable Product) supports:
 
 ## 🧠 Web3 Stack
 
-- **Smart Contract**: Handles job postings and subscription logic using ApeCoin (APE)
+- **Smart Contract**: Handles job postings and subscription logic using ApeCoin (APE) (Future Development)
 - **IPFS Integration**: Jobs are stored via IPFS for transparency and immutability
 - **Decentralization**: Fully decentralized, no central authority
 - **Future Features** *(in progress)*:
