@@ -47,12 +47,4 @@ Our current MVP (Minimum Viable Product) supports:
 
 ---
 
-## 📦 Repository Structure
-
-```bash
-├── /components      # Reusable UI components
-├── /pages           # Next.js pages
-├── /utils           # Helper functions and constants
-├── /contracts       # Smart contract ABI and addresses
-├── /public          # Static assets
-├── README.md
+ 
