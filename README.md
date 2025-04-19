@@ -46,5 +46,52 @@ Our current MVP (Minimum Viable Product) supports:
 - **Wallet**: MetaMask & WalletConnect supported
 
 ---
+## 🗺 JobsFi Project Roadmap
+
+### ✅ Phase 1: MVP Launch (Completed)
+- ✅ Smart contract for job posting and subscription logic (APE-based)
+- ✅ Basic frontend built with Next.js + Tailwind CSS
+- ✅ Wallet integration (MetaMask, WalletConnect)
+- ✅ Store job listings on IPFS (basic setup)
+- ✅ Subscription flow for employers and applicants
+- ✅ UI to post and view jobs
+- ✅ Live demo video released
+
+---
+
+### 🚧 Phase 2: Core Enhancements (In Progress)
+- [ ] Improve IPFS integration (metadata & upload flow)
+- [ ] Add user dashboards (employers & applicants)
+- [ ] Display all job listings with filters (category, date, etc.)
+- [ ] Error handling, loading states, and better UX
+- [ ] Responsive design for all screen sizes
+- [ ] Secure applicant data storage
+- [ ] Form validation for job fields
+
+---
+
+### 🧠 Phase 3: Smart Matching & Scoring (Coming Soon)
+- [ ] Auto-filter applicants based on job requirements
+- [ ] Calculate on-chain match scores (e.g., 66% match logic)
+- [ ] Display compatibility % between job and applicant
+- [ ] Recommend jobs based on applicant profile
+
+---
+
+### 💰 Phase 4: Advanced Monetization
+- [ ] Premium job features (highlight, pin, featured)
+- [ ] Optional paid boosts for job visibility
+- [ ] Transparent breakdown of APE payments
+- [ ] Admin dashboard for metrics and monitoring
+
+---
+
+### 🌍 Phase 5: Community & Scaling
+- [ ] Deploy on ApeChain mainnet
+- [ ] Support more wallets (Coinbase, Rainbow, etc.)
+- [ ] Multilingual support (i18n)
+- [ ] Open-source the frontend for contributors
+- [ ] Build partnerships with DAOs, companies, or job boards
+
 
  
