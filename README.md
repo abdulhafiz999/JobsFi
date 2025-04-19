@@ -3,6 +3,9 @@
 JobsFi is a decentralized job board platform built on ApeChain. It streamlines the hiring process through transparency, trust, and immutability — all powered by smart contracts and IPFS.
 
 ---
+Demo video
+[![Watch the demo](https://img.youtube.com/vi/z5Gk_zJVuGQ/0.jpg)](https://youtu.be/z5Gk_zJVuGQ)
+
 
 ## 🚀 Overview
 
